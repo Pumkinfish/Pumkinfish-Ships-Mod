@@ -1,0 +1,10 @@
+{
+  "Name": "Evil balls man",
+  "Description": "I am evil balls man",
+  "Prefab": "Balls",
+  "SpawnInWaves": true,
+  "SpawnInProtect": false,
+  "SpawnInHoldout": true,
+  "SpawnInObjective": false,
+  "WavesItAppears": [1, 3, 5]
+}
