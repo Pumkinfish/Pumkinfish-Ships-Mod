@@ -1,0 +1,16 @@
+{
+    "Name": "Evil Bastard",
+    "Description": "Retarded goo",
+    "Prefab": "ExampleEnemy",
+    "SpawnInWaves": true,
+    "SpawnInProtect": false,
+    "SpawnInHoldout": false,
+    "SpawnInObjective": true,
+    "WavesItAppears": [
+        1,
+        3,
+        5
+    ],
+    "Enabled": false,
+    "ModFolderPath": "D:/UnityStuff/PumkinfishShips/Pumkinfish Ships_Data\\..\\Mods\\Test"
+}
